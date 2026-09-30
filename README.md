@@ -1,6 +1,6 @@
 # Python & Data Science — UPJV Amiens
 
-**Étudiant·e :** henoc_matelo_matondo
+**Étudiant·e :** henoc-matelo-matondo
 **Formation :** L3 Économie
 **Année :** 2026-2027
 
